@@ -52,31 +52,44 @@ border: 2px;
 .riga{
     background-color: rgb(24, 127, 236);
     border-radius: 5px;
+    color: white;
+    
 
 }
 .riga2{
     background-color: purple;
     border-radius: 5px;
+    color: white;
+    
+    
 }
 .riga3{
     background-color: green;
     border-radius: 5px;
+    color: white;
+   
 }
 .riga4{
     background-color: orange;
     border-radius: 5px;
+    color: white;
+    
 }
 .riga5{
     background-color: rgb(255, 0, 153);
     border-radius: 5px;
+    color: white;
+    
 }
 .riga6{
     background-color: rgb(168, 203, 41);
     border-radius: 5px;
-}
+    color: white;}
+   
 .distanza{
     margin-top: 30px;
     margin-bottom: 10px;
+    
 }
 .nobot{
     list-style-type: none;
@@ -98,4 +111,7 @@ border: 2px;
     height: 2px;
     border-radius: 50%;
     border: 1px solid;
+}
+li{
+    padding: 10px;
 }
