@@ -54,6 +54,7 @@ border: 2px;
     background-color: rgb(24, 127, 236);
     border-radius: 5px;
     color: white;
+    padding: 5px;
     
 
 }
@@ -61,6 +62,7 @@ border: 2px;
     background-color: purple;
     border-radius: 5px;
     color: white;
+    padding: 5px;
     
     
 }
@@ -68,24 +70,29 @@ border: 2px;
     background-color: green;
     border-radius: 5px;
     color: white;
+    padding: 5px;
    
 }
 .riga4{
     background-color: orange;
     border-radius: 5px;
     color: white;
+    padding: 5px;
     
 }
 .riga5{
     background-color: rgb(255, 0, 153);
     border-radius: 5px;
     color: white;
+    padding: 5px;
     
 }
 .riga6{
     background-color: rgb(168, 203, 41);
     border-radius: 5px;
-    color: white;}
+    color: white;
+    padding: 5px;
+}
    
 .distanza{
     margin-top: 30px;
