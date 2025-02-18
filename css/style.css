@@ -10,6 +10,7 @@
    vertical-align:middle;
    
    
+   
 }
 
 .logo{
@@ -19,7 +20,7 @@
 }
 
 .container{
-    background-color: rgb(224, 220, 220);
+    background-color: rgba(230, 236, 237, 0.974);
     padding: 30px 50px 30px 50px;
     
 }
