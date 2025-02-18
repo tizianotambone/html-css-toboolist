@@ -18,6 +18,46 @@
 
 }
 
-.div{
-    background-color: lightgrey;
+.container{
+    background-color: rgb(224, 220, 220);
+    padding: 30px 50px 30px 50px;
+    
+}
+
+.tasto2{
+    background-color:white;
+   color: gray;
+   border: 2px solid grey;
+   border-radius: 5px;
+    
+}
+
+.tasti{
+background-color: rgb(83, 189, 224);
+color: white;
+padding: 5px;
+border-radius: 5px;
+border: 2px;
+
+}
+
+.bianco{
+    background-color: white;
+    padding: 30px;
+    width: 50%;
+    margin: 0 auto;
+
+}
+    
+.riga{
+    background-color: rgb(24, 127, 236);
+    border-radius: 5px;
+}
+.riga2{
+    background-color: purple;
+    border-radius: 5px;
+}
+.riga3{
+    background-color: green;
+    border-radius: 5px;
 }
