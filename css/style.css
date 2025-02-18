@@ -81,3 +81,21 @@ border: 2px;
 .nobot{
     list-style-type: none;
 }
+
+.distanza{
+   border: 15px;
+}
+.ok{
+    color: green;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    border: 1px solid;
+}
+.ko{
+    color: red;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    border: 1px solid;
+}
