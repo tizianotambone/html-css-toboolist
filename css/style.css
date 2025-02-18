@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.inline-block{
+    display: inline-block;
+    margin: 5px;
+   vertical-align:middle;
+   
+   
+}
+
+.logo{
+    height: 60px;
+    vertical-align:middle;
+
+}
+
+.div{
+    background-color: lightgrey;
+}
